@@ -1,0 +1,341 @@
+
+
+/*Krunal-Dev*/
+
+.hostmyown-button-wrapper {
+  display: flex;
+  /* margin-bottom: 3em;
+    gap: 2em; */
+  justify-content: center;
+  align-items: center;
+}
+
+.hostmyown-cancle,
+.hostmyown-host {
+  width: 250px !important;
+  padding: 1.5em !important;
+}
+
+.hostmyown-add {
+  padding: 1em 5em !important;
+}
+
+.itinerary-wrapper {
+  display: flex !important;
+  justify-content: space-between;
+  align-items: center;
+  margin: 3em 0 !important;
+  margin-top: 5em !important;
+}
+
+.itinerary-text h3 {
+  margin: 0 !important;
+}
+
+.itinerary-text p {
+  color: #42b6e6;
+}
+
+.places-events {
+}
+
+.places-events-info {
+  display: inline-block !important;
+  margin: 10em 0 !important;
+  color: #7e7e7e;
+}
+
+.host-myown-date {
+  display: flex;
+  align-items: center;
+}
+
+.host-myown-date-wrapper {
+  margin: 3em 0 !important;
+}
+
+.host-myown-date p {
+  color: #42b6e6;
+}
+
+.host-myown-date h3 {
+  margin-top: 0 !important;
+}
+
+.pax {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.pax p {
+  color: #7e7e7e;
+}
+
+.pax h3 {
+  margin: 0 !important;
+}
+
+/* .edit-profile-page input {
+    max-width: 500px !important;
+} */
+
+.host-type-wrapper input[type="radio"] {
+  -webkit-appearance: none;
+  position: relative;
+}
+
+.host-type-wrapper input[type="radio"]:after {
+  background-color: transparent;
+  position: absolute;
+  border-radius: 25px;
+  content: "";
+  display: block;
+  width: 243px;
+  height: 46px;
+  bottom: -18px;
+  left: 0px;
+  color: #42b6e6;
+}
+
+.host-type-wrapper input[type="radio"]:checked:after {
+  color: #fff !important;
+  background: rgba(66, 182, 230, 0.2);
+  border: 1px solid #42b6e6;
+}
+
+.host-type-wrapper .radio-label {
+  border-radius: 25px;
+  text-align: center;
+  border: 1px solid #ddd;
+  width: 243px;
+  padding: 10px 0px !important;
+}
+
+.host-type-wrapper input[type="radio"]:checked ~ label {
+  color: #42b6e6;
+}
+
+.transportation-wrapper .radio-label {
+  width: unset !important;
+}
+
+.profile-section {
+  display: flex;
+}
+
+/* .edit-profile-page h3 {
+    font-weight: bolder;
+    margin-top: 3em;
+} */
+
+.edit-profile-page .hostmyown-input {
+  margin-bottom: 3em;
+  padding: 1.5em 1.2em;
+}
+
+.edit-profile-page table {
+  margin-left: 2rem;
+  width: 100%;
+  max-width: 300px;
+}
+
+.profile-section {
+  margin-bottom: 3em;
+}
+
+.profile-image {
+  width: 120px;
+  border-radius: 50%;
+}
+
+.edit-profile-page table tr th {
+  color: #7e7e7e;
+}
+
+/*-------------------*/
+
+/*Piyush*/
+
+.Myhostown {
+  border-bottom: 2px solid #dfdfdf;
+}
+
+.Myhostown-tital h1 {
+  font-weight: 600;
+  font-size: 50px;
+}
+
+.OwnItinerary h3 {
+  font-weight: 600;
+  margin-top: 50px !important;
+}
+
+.OwnItinerary p {
+  color: #42b6e6;
+}
+
+.OwnItinerary-button button {
+  margin: 70px 0px 20px 0px !important;
+  float: right;
+  padding: 15px 80px !important;
+  border-radius: 50px;
+  background-color: #24b6e6;
+  color: #fff;
+  border: none;
+}
+
+.OwnItinerary-input {
+  border-bottom: 2px solid #dfdfdf;
+  margin-bottom: 20px;
+}
+
+.OwnItinerary-input p {
+  width: 100% !important;
+  border: none;
+  padding: 70px 0px !important;
+  border-color: #ddd !important;
+  outline: none;
+}
+
+.Owntitle {
+  border-bottom: 2px solid #dfdfdf;
+}
+
+.Owntitle h3 {
+  font-weight: 600;
+  margin-top: 50px !important;
+}
+
+.Owntitle-input input {
+  width: 100% !important;
+  padding: 16px 20px;
+  border-radius: 5px !important;
+  outline: none;
+  font-size: 18px !important;
+  font-weight: bold !important;
+  font-family: Noto Sans CJK KR !important;
+  color: #404040 !important;
+  border: 1px solid #c9c9c9;
+}
+
+.Owntitle-input-2 textarea {
+  font-size: 18px !important;
+  font-weight: bold !important;
+  font-family: Noto Sans CJK KR !important;
+  color: #404040 !important;
+}
+
+/* .Owntitle-input-2 textarea {
+    width: 100% !important;
+    padding: 10px 0px 50px 10px !important;
+    border-radius: 5px !important;
+    outline: none;
+    border: 1px solid #c9c9c9;
+    margin-bottom: 50px;
+} */
+
+.Own-Profile-title {
+  border-bottom: 2px solid #dfdfdf;
+}
+
+.Owntitle-Profil img {
+  border-radius: 50px !important;
+  width: 100px !important;
+}
+
+.Owntitle-Profil-text p {
+  color: #7e7e7e;
+  margin-bottom: 5px !important;
+}
+
+.Owntitle-Profil-ptext-2 p {
+  margin-bottom: 5px !important;
+  float: right;
+  padding-left: 15px !important;
+}
+
+/*--------------*/
+
+/*Host Own Page*/
+
+.host-own-page {
+  margin-top: 230px !important;
+}
+
+.itinerary {
+  margin-top: 80px;
+}
+
+.itinerary .addBtn {
+  width: 230px;
+  height: 65px;
+  font-family: Noto Sans CJK KR !important;
+  font-style: normal !important;
+  font-weight: bold !important;
+  font-size: 20px !important;
+  background: #42b6e6;
+  border-radius: 116.807px;
+  border: none !important;
+}
+
+.itinerary .addBtn:hover {
+  background: #42b6e6;
+}
+
+.reset-pass-success {
+  background: #f7f7f7;
+  border: 1px solid #ebebeb;
+  border-radius: 100px !important;
+  border-radius: 10px !important;
+  line-height: 66px !important;
+  text-align: center !important;
+}
+
+/*------Yash    ----*/
+
+.details-header {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.ml-110 {
+  margin-left: 110px;
+}
+
+.user-imgchat {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.custom-404{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: 100vh;
+}
+
+
+.sticky {
+  position: fixed !important;
+  z-index: 100; 
+  top: 45px;
+  /* this is optional and should be different for every project */
+}
+
+
+/* .tourcard-in-myaccount .card-image-main{
+  height:100% !important;
+
+}
+.tourcard-in-myaccount .card-image-main img{
+  height:100% !important;
+} */
+
+.noauthheader .input-search{
+  width: unset !important;
+}

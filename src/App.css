@@ -1,0 +1,173 @@
+.page-item-custom {
+  font-size: 18px !important;
+  cursor: pointer;
+  width: 30px;
+  font-weight: normal !important;
+  text-align: center;
+  line-height: 20px;
+  height: 20px;
+  margin: 0 4px;
+}
+
+.page-link-custom {
+  color: #7e7e7e !important;
+}
+
+.activepage {
+  color: #42b6e6 !important;
+  font-weight: bold !important;
+}
+
+.pagination-custom .pagination {
+  margin-bottom: 0 !important;
+  justify-content: center;
+  margin-top: 82px;
+}
+
+.b-red {
+  border: 4px solid #42b6e6 !important;
+}
+
+.b-trans {
+  border: 4px solid transparent;
+}
+
+.hostmyown-input {
+  padding: 18px 20px !important;
+}
+
+.Owntitle-input input:placeholder-shown {
+  font-family: Noto Sans CJK KR;
+  font-style: normal;
+  width: 100% !important;
+  height: 62px !important;
+  font-weight: normal !important;
+  padding: 18px 20px 17px !important;
+  font-size: 18px !important;
+  color: #7e7e7e !important;
+}
+
+.host-btn-disabled {
+  width: 360px;
+  height: 80px;
+  border: 2px solid #7e7e7e !important;
+  color: #7e7e7e !important;
+  border-radius: 143.697px !important;
+  background: #c9c9c9 !important;
+  margin-top: 103px !important;
+  margin-left: 20px;
+  font-family: Noto Sans CJK KR;
+  font-style: normal !important;
+  font-weight: bold !important;
+  font-size: 24px !important;
+}
+
+.over-hide {
+  overflow: hidden;
+}
+
+
+.orange-font {
+  color: #FF5F5F !important;
+}
+
+.footer-link span {
+  padding: 0 12px;
+  border-right: 2px solid #222222;
+  cursor: pointer;
+  font-weight: 400;
+  color: #222222;
+  font-family: "Noto Sans", sans-serif !important;
+  font-size: 16px !important;
+}
+
+.comp-my-host-blue {
+  width: 188px !important;
+  height: 65px !important;
+  border: 1px solid #42b6e6 !important;
+  font-family: Noto Sans CJK KR !important;
+  font-style: normal !important;
+  font-weight: bold !important;
+  font-size: 18px !important;
+  color: #fff !important;
+  border-radius: 116.807px !important;
+  background-color: #42b6e6 !important;
+  margin-right: 14px;
+}
+
+.mb-29{
+  margin-bottom: 29px !important;
+}
+
+.cnotice-page .CustomerService-title2 {
+  margin-top: 100px !important;
+}
+
+.cnotice-page .CustomerService-title2 h1 {
+  font-family: Noto Sans CJK KR;
+  width: 1290px;
+  height: 108px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 72px;
+  line-height: 108px;
+  color: #000000;
+  margin-bottom: 110px;
+}
+
+.note-badge{
+  width: 16px !important;
+  height: 16px !important;
+  background-color: #FF5F5F;
+  border-radius: 50% !important;
+  display: block !important;
+  top: 20px !important;
+}
+
+.profilenote-btn{
+  border:none !important;
+  padding:0 !important;
+}
+
+.note-dropmenu{
+  width:373px !important;
+  height: 466px !important;
+  overflow-y:auto;
+  padding-left:21px !important;
+  padding-right:21px !important;
+  background: #FFFFFF !important;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15) !important;
+  border-radius: 4px !important;
+  border:none !important;
+  padding-top:9px !important;
+  padding-bottom:18px !important;
+}
+
+.notification-font-normal{
+  font-family: Noto Sans CJK KR !important;
+  font-style: normal !important;
+  font-weight: normal;
+  font-size: 16px !important;
+  color: #1B1C1E !important;
+  height:28px !important;
+  margin-top:22px !important;
+}
+
+.note-dropmenu a:hover{
+  background-color: transparent !important;
+}
+
+.note-dropmenu a p:hover{
+  background-color:none !important;
+  font-weight: bold !important;
+}
+
+.notification-font-bold{
+  font-family: Noto Sans CJK KR !important;
+  font-style: normal !important;
+  font-weight: bold !important;
+  font-size: 16px !important;
+  color: #1B1C1E !important;
+  height:28px !important;
+  margin-top:22px !important;
+}

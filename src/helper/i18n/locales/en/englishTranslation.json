@@ -1,0 +1,550 @@
+{
+    "Hello": "Hello",
+    "Select_Language": "Select Language",
+    "Dashboard": "Dashboard",
+    "Details": "Details",
+    "signUp": {
+        "Sign_Up": "Sign Up",
+        "Name": "Name",
+        "Username": "Username",
+        "Email": "Email Address",
+        "Password": "Password",
+        "Confirm_Password": "Confirm Password",
+        "Country": "Nationality",
+        "Gender": "Gender",
+        "DOB": "Date of Birth",
+        "Phone_Number": "Phone Number",
+        "Send_Verification_Code": "Send Code",
+        "Verify": "Verify",
+        "Resend": "Re-send Code",
+        "Placeholder": {
+            "First_Name": "First Name",
+            "Last_Name": "Last Name",
+            "Username": "This is how your name will appear on Compastrips",
+            "Email": "Email Address",
+            "Password": "8-16 combination of letters and numbers",
+            "Confirm_Password": "Confirm Password",
+            "Country": "Select your nationality",
+            "Gender": "Select your Gender",
+            "Select": "Country",
+            "Verification_Code": "Verification Code",
+            "Phone_Number": "Phone number",
+            "Already_have_account": "Already have an account?",
+            "Male": "Male",
+            "Female": "Female",
+            "More": "More"
+        },
+        "Terms": {
+            "Agree": "I agree to all below",
+            "Term_of_use": "Compastrips’ Terms of Use (Required) ",
+            "Privacy_and_Cookie": "Compastrips’ Privacy Policy and Cookie Statement (Required)"
+        },
+        "Errors": {
+            "First_Name": "Enter your first name",
+            "Last_Name": "Enter your last name",
+            "Username": "Please enter a username (up to 10 characters) to be displayed to other users",
+            "Email": "Enter a valid email address",
+            "Password": "Password must be between 8-16 characters and a combination of letters and numbers",
+            "Confirm_Password": "Password does not match",
+            "Country": "Select your nationality",
+            "Gender": "Select your gender",
+            "DOB": "Enter your date of birth",
+            "Phone_Number": "Please verify your phone number",
+            "Time_excede": "Time for verfication has been excede. please resend verfication code.",
+            "TermErr": "Please accept all Terms and Conditions"
+        }
+    },
+    "Welcome": {
+        "Welcome": "Welcome!",
+        "Hi": "Hi",
+        "Success": "Your sign up process has been successfully completed. Now, log in to discover tours and meet new friends from around the world at Compastrips!"
+    },
+    "logIn": {
+        "Log_In": "Log In",
+        "Email": "Email Address",
+        "Password": "Password",
+        "Keep_me_signin": "Keep me signed in",
+        "Save_email_add": "Save email address",
+        "Forgot_Password": "Forgot your password?",
+        "Dont_have_acc": "Don’t have an account?",
+        "Placeholder": {
+            "Email": "Email Address",
+            "Password": "8-16 characters and a combination of letters and numbers"
+        },
+        "Errors": {
+            "Email": "Please enter your email address",
+            "Password": "Please enter a password",
+            "InvalidEmail": "Invalid email address",
+            "IncorrectPass": "Incorrect Password"
+        }
+    },
+    "Reset_Password": {
+        "Reset_Password": "Reset Password",
+        "Enter_registered_email": "Enter your registered email address below, we will email you a link to reset your password.",
+        "Email": "Email Address",
+        "Send_reset_link": "Send Reset Link",
+        "Password_reset_email_sent": "Password reset email sent successfully!",
+        "Placeholder": {
+            "Email": "Email Address"
+        },
+        "Errors": {
+            "Email": "Invalid email address",
+            "User_Not_Found": "User does not exists"
+        }
+    },
+    "Forgot_Password": {
+        "Reset_Password": "Reset Password",
+        "Pass_config": "Password must be between 8-16 characters and a combination of letters and numbers.",
+        "New_Password": "New Password",
+        "Confirm_Pass": "Confirm Password",
+        "Confirm": "Confirm",
+        "Error": {
+            "Password_Formate": "Password must be between 8-16 characters and a combination of letters and numbers",
+            "Password": "Please enter a Password",
+            "ConfirmPass": "Enter password one more time",
+            "PassMatch": "Password Does not match"
+        }
+    },
+    "Header": {
+        "DropDown": {
+            "My_Account": "My Account",
+            "My_Hosting": "My Hostings",
+            "Applied_Hosting": "Applied Hostings",
+            "Wishlist": "Wishlist",
+            "Edit_Profile": "Edit Profile",
+            "Log_Out": "Log out",
+            "Chat": "Chat"
+        }
+    },
+    "Homepage": {
+        "Hero": {
+            "Title1": "Travel like a local",
+            "Title2": "and meet new friends",
+            "Search_Placeholder": "Where do you want to go?",
+            "From": "From",
+            "Until": "Until",
+            "Find_Tours": "Find Tours",
+            "View_Hosts": "View Hosts",
+            "Host_MyOwn": "Host My Own"
+        },
+        "Popular_Destination": "Trending Now",
+        "Popular_Hosts": "Popular Hosts",
+        "NavBar": {
+            "All": "All",
+            "Local_Picks": "Only Locals Know",
+            "Festivals": "Festivals & Events",
+            "Popular": "Popular Destinations"
+        }
+    },
+    "Footer": {
+        "Terms_of_Use": "Terms of Use",
+        "Privacy_Policy": "Privacy Policy",
+        "Inquiries": "Inquiries",
+        "Customer_Service": "Customer Service",
+        "Service_Introduction": "Service Introduction"
+    },
+    "My_Account": {
+        "MyAccount": "My Account",
+        "Edit_Profile": "Edit Profile",
+        "View_All": "View All",
+        "My_Hostings": "My Hostings",
+        "Coming_Up": "Coming Up",
+        "Completed": "Completed",
+        "Applied_Hostings": "Applied Hostings",
+        "Standing_By": "Standing By",
+        "Accepted": "Accepted",
+        "Declined": "Declined",
+        "Wishlist": "Wishlist",
+        "Tours": "Tours",
+        "Hosts": "Hosts",
+        "Hosting_Canceled": "This hosting has been canceled.",
+        "Remove": "Remove",
+        "Show_My_Own_Host_Only": "Show Host My Own hostings only"
+    },
+    "Edit_Profile": {
+        "Edit_Profile": "Edit Profile",
+        "Profile": "Profile",
+        "Name": "Name",
+        "Email": "Email",
+        "Nationality": "Nationality",
+        "DOB": "Date of Birth",
+        "Username": "Username",
+        "Password": "New Password",
+        "Confirm": "Confirm",
+        "Reset": "Reset",
+        "Gender": "Gender",
+        "Phone_number": "Phone Number",
+        "Send_Verification_Code": "Send Code",
+        "Verify": "Verify",
+        "Resend": "Resend",
+        "Verification_Code": "Verification Code",
+        "Delete": "Delete My Account",
+        "Save": "Save",
+        "Time_excede": "Time for verfication has been excede. please resend verfication code.",
+        "Placeholder": {
+            "Password": "Enter a New Password",
+            "ConfirmPass": "Confirm Password"
+        },
+        "Error": {
+            "Password": "8-16 characters and a combination of letters and numbers",
+            "ConfirmPass": "Enter password one more time",
+            "PassMatch": "Password Does not match",
+            "verifyNumber": "Please verify your mobile number",
+            "IncorrectOTP": "Incorrect OTP",
+            "InvalidMobile": "Incorrect Mobile Number"
+        }
+    },
+    "Delete_Acc": {
+        "Title": "Would you like to delete your account?",
+        "Body": "Once your account is deleted, all your information and service use records will be deleted permanently and it cannot be restored.",
+        "Confirm": "I understand and consent to above.",
+        "Cancel": "Cancel",
+        "Delete": "Delete"
+    },
+    "Host_Own": {
+        "Host_Own": "Host My Own",
+        "Itinerary": "Itinerary",
+        "Span": "You can add places or events in the same city/region only.",
+        "Add": "Add",
+        "Title": "Title",
+        "About_Tour": "About the Tour",
+        "Profile": "Profile",
+        "Host_Type": "Host Type",
+        "Local_Host": "Local Host",
+        "Travel_Host": "Traveler Host",
+        "Gender": "Gender",
+        "Age": "Age Group",
+        "Nationality": "Nationality",
+        "Hosting_Date": "Hosting Date",
+        "Single_Day_Hosting": "Single-day hosting only",
+        "Starts_At": "Starts at",
+        "Transportation": "Transportation",
+        "Pax_Number": "Pax Number",
+        "Excluding_Host": "(Excluding the host)",
+        "Pax": "pax",
+        "Introduce_Yourself": "Introduce Yourself",
+        "Host": "Host",
+        "Cancel": "Cancel",
+        "More": "More",
+        "Delete": "Delete",
+        "Options": {
+            "Car": "Car",
+            "Taxi": "Taxi",
+            "Public_Transportation": "Public Transportation",
+            "Other": "Other"
+        },
+        "Placeholder": {
+            "Places_Events": "Please add places or events",
+            "Title": "Enter tour title",
+            "About_Tour": "Enter tour information",
+            "Start_At": "Starting location (address, station/terminal, etc.)",
+            "Other": "Other",
+            "Pax_Number": "1~9",
+            "Introduce_Yourself": "500 characters maximum"
+        },
+        "Host_Popup": {
+            "Host": "Host",
+            "Title": "Would you like to host this tour?",
+            "Point1": "You can cancel your hosting at any time, but you cannot edit your hosting information after it is listed.",
+            "Point2": "Others cannot host the tour you created.",
+            "Point3": "Your created tour will be delisted once you cancel or  complete your hosting.",
+            "Cancel": "Cancel",
+            "Host_Btn": "Host"
+        },
+        "Notice_Popup": {
+            "Notice": "Notice",
+            "Body": "Your hosting has been listed successfully.",
+            "OK": "OK"
+        },
+        "pax1": "",
+        "pax2": " pax",
+        "pax3": "",
+        "Delete_Course": {
+            "Title": "Delete",
+            "Body": "Would you like to delete this course?",
+            "Cancel": "Cancel",
+            "Delete": "Delete"
+        },
+        "Delete_Course_Popup": {
+            "Title": "Delete",
+            "Body": "It has been deleted.",
+            "OK": "OK"
+        },
+        "Already_Hosting": {
+            "Title": "Notice",
+            "T1": "You can only host one tour at a time.",
+            "T2": "Please cancel or complete the ongoing",
+            "T3": "itinerary to host a new one.",
+            "OK": "OK"
+        }
+    },
+    "Add_Place": {
+        "Header": "Search Places and Events",
+        "Country": "Country",
+        "City": "City/Region",
+        "Category": "Category",
+        "All": "All",
+        "Span": "Multiple Choices",
+        "Search": "Search",
+        "Keyword": "Enter Keyword",
+        "Results1": "",
+        "Results2": " Results",
+        "Selected1": "",
+        "Selected2": " Selected",
+        "Cancel": "Cancel",
+        "Add": "Add"
+    },
+    "Tour_Course_Details": {
+        "Header": "Information",
+        "City": "City/Region",
+        "Category": "Category",
+        "Name": "Name",
+        "Photos": "Photos",
+        "Date": "Date",
+        "About": "About",
+        "Address": "Address",
+        "URL": "URL",
+        "Phone_Number": "Phone Number",
+        "Nearest_Public_Trasportation": "Nearest Public Transportation"
+    },
+    "ViewHost": {
+        "Header": "View Hosts",
+        "Host_Type": "Host Type",
+        "Local_Host": "Local Host",
+        "Traveler_Host": "Traveler Host",
+        "Gender": "Gender",
+        "Male": "Male",
+        "Female": "Female",
+        "Age_Group": "Age Group",
+        "20s": "20s",
+        "30s": "30s",
+        "40s": "40s",
+        "50s": "50s",
+        "60s": "60s",
+        "pax1": "",
+        "pax2": " pax"
+    },
+    "Host_Profile_Popup": {
+        "Title": "Host Profile",
+        "Now_Hosting": "Now Hosting",
+        "Reviews1": "Reviews ",
+        "Reviews2": ""
+    },
+    "Itinerary_Desc": {
+        "Itinerary": "Itinerary",
+        "About_the_tour": "About The Tour",
+        "Schedule": "Schedule",
+        "Reviews": "Reviews"
+    },
+    "TourList": {
+        "Host": " Host",
+        "People": "",
+        "Reviews": "Reviews"
+    },
+    "Empty_Participates": {
+        "Text": "There are no applicants for this hosting yet."
+    },
+    "Empty_Hostlist": {
+        "Host_Btn": "Host",
+        "Host_Tour": "",
+        "Text": "There are no hosts for this tour yet."
+    },
+    "Host_Details": {
+        "Cancel_Btn": {
+            "P1": "Cancel My",
+            "P2": "Hosting"
+        },
+        "Hosting_Complete": {
+            "P1": "Hosting",
+            "P2": "Completed"
+        },
+        "Date&Time": "Date & Time",
+        "Starts_At": "Starts at",
+        "Transportation": "Trasportation",
+        "Join": "Join",
+        "Application_Sent": "Application Sent",
+        "Cancel_My_Application": "Cancel My Application",
+        "Closed": "Closed",
+        "Application_Accepted": "Application Accepted",
+        "Application_Declined": "Application Declined",
+        "Rejected_By_Host": "Rejected by Host",
+        "Cancle_Request": "Cancle Request",
+        "Hosting_Completed": "Hosting Completed",
+        "Write_Review": "Write a Review",
+        "Review_Submitted": "Review Submitted"
+    },
+    "Join_Popup": {
+        "Join": "Join",
+        "Text1": "Would you like to join this tour?",
+        "Text2": "You can cancel your application at any time.",
+        "Cancel": "Cancel",
+        "Apply": "Apply"
+    },
+    "Application_Sent": {
+        "Application_Sent": "Application Sent",
+        "Text1": "Your application has been sent successfully.",
+        "Text2": "You can join this tour once the host accepts your application.",
+        "Text3": "Check your application status at My Account.",
+        "OK": "OK"
+    },
+    "Cancel_Application": {
+        "Cancel_Application": "Cancel My Application",
+        "Question": "Are you sure you want to cancel your application?",
+        "Confirm_Statement": "Your application has been canceled.",
+        "Cancel": "Cancel",
+        "Confirm": "Confirm",
+        "OK": "OK"
+    },
+    "Host_Popup": {
+        "Host": "Host",
+        "Title": "Would you like to host this tour?",
+        "Body": "You can cancel your hosting at any time, but you cannot edit your hosting information after it is listed.",
+        "Cancel": "Cancel",
+        "Host_Btn": "Host"
+    },
+    "Notice_Popup": {
+        "Notice": "Notice",
+        "Body": "Your hosting has been listed successfully.",
+        "OK": "OK"
+    },
+    "Cancel_Notice_Popup": {
+        "Notice": "Notice",
+        "Body": "Your hosting has been canceled.",
+        "OK": "OK"
+    },
+    "Cancel_Hosting_Popup": {
+        "Title": "Cancel My Hosting",
+        "Question": "Would you like to cancel your hosting?",
+        "Text": "Your hosting will be delisted and cancellation message will be sent to all applicants.",
+        "Cancel": "Cancel",
+        "Confirm": "Confirm",
+        "Notice": {
+            "Title": "Notice",
+            "Body": "Your hosting has been canceled.",
+            "OK": "OK"
+        }
+    },
+    "Hosting_Complete": {
+        "Title": "Hosting Completed",
+        "Text": "Have you successfully completed your hosting?",
+        "Cancel": "Cancel",
+        "Yes": "Yes",
+        "Notice": {
+            "Title": "Notice",
+            "Body": "Congratulations! You can now host a new tour!",
+            "OK": "OK"
+        }
+    },
+    "Pax_Applications": {
+        "Applications": "Applications",
+        "Pax1": "",
+        "Pax2": " pax",
+        "Vacancies1": "",
+        "Vacancies2": " vacancies",
+        "Standing": "Standing by",
+        "Accepted": "Accepted",
+        "Declined": "Declined",
+        "Applied": "Applied",
+        "Status": "",
+        "Chat": "Chat",
+        "Accept": "Accept",
+        "Decline": "Decline",
+        "No_Application": "No Applications"
+    },
+    "Cancel_Accepted": {
+        "Title": "Cancel",
+        "Body": "Would you like to cancel the request to join the tour?",
+        "Cancel": "Cancel",
+        "Continue": "Continue"
+    },
+    "Cancel_Accepted_Success": {
+        "Title": "Cancel",
+        "Body": "Your request has been successfully canceled.",
+        "Continue": "Continue"
+    },
+    "Application_pax": {
+        "Accept_Popup": {
+            "Title": "Accept Application",
+            "Body1": "Would you like to accept application from ",
+            "Body2": "?",
+            "Cancel": "Cancel",
+            "Accept": "Accept"
+        },
+        "Accept_Notice": {
+            "Title": "Notice",
+            "Body1": "",
+            "Body2": "’s application has been accepted.",
+            "OK": "OK"
+        },
+        "Decline_Popup": {
+            "Title": "Decline Application",
+            "Body1": "Would you like to decline application from ",
+            "Body2": "?",
+            "Cancel": "Cancel",
+            "Decline": "Decline"
+        },
+        "Decline_Notice": {
+            "Title": "Notice",
+            "Body1": "",
+            "Body2": "’s application has been declined.",
+            "OK": "OK"
+        }
+    },
+    "Chat": {
+        "Enter_Message": "Enter Message"
+    },
+    "Review_Popup": {
+        "Title": "Write a Review",
+        "Body": "Share your experience with other travelers.",
+        "Write_Review": "Write a Review",
+        "Cancel": "Cancel",
+        "Submit": "Submit"
+    },
+    "Review_Notice": {
+        "Title": "Write a Review",
+        "Body": "Your review has been submitted.",
+        "OK": "OK"
+    },
+    "Terms_Of_Use": {
+        "Title": "Terms of Use",
+        "Artical_1": "Article 1 General Rules",
+        "Body_Title": "Article 1 (Purpose) ",
+        "Body": "The purpose of this Agreement is to define the rights, obligations and responsibilites of the user in the use of destination hosting services provided on the compastrip website (http://www.compastrips.com, or \"compastrips\" 라 한다).",
+        "Close": "Close"
+    },
+    "Privacy_Policy": {
+        "Title": "Privacy Policy",
+        "Body": "Compastrips (hereinafter referred to as “the Company\") complies with the privacy regulations under relevant laws, such as the Telecommunications Act, the Telecommunications Business Act, the Act on Promotion of Information and Communications Network Utilization and Data Protections, etc., and government-imposed privacy laws and regulations. “The Company\"'s Privacy Policy includes the following:",
+        "Point1": "1. Items and methods of collecting personal information",
+        "Point2": "2. Purpose of collecting and using personal information",
+        "Point3": "3. Sharing and providing personal information",
+        "Point4": "4. Consignment of handling personal information",
+        "Close": "Close"
+    },
+    "Age_Groups": "s",
+    "Male": "Male",
+    "Female": "Female",
+    "Traveler_Host": "Traveler Host",
+    "Local_Host": "Local Host",
+    "Customer_Service": {
+        "Customer_Service": "Customer Service",
+        "Notice": "Notice",
+        "FAQ": "FAQ",
+        "Keyword": "Enter Keyword",
+        "Search": "Search",
+        "Total": "Total ",
+        "Items": " Items",
+        "Title": "Title",
+        "Date": "Date",
+        "Views": "Views"
+    },
+    "Inquiry": {
+        "Inquiries": "Inquiries",
+        "Get_Started": "Get Started"
+    },
+    "Wasn't_Good": "Wasn't good",
+    "Disappointed": "Disappointed",
+    "Decent": "Decent",
+    "Satisfied": "Satisfied",
+    "Very_Satisfied": "Very satisfied"
+}

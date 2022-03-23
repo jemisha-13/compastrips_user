@@ -1,0 +1,550 @@
+{
+    "Hello": "안녕하세요",
+    "Select_Language": "언어 선택",
+    "Dashboard": "계기반",
+    "signUp": {
+        "Sign_Up": "회원가입",
+        "Name": "이름",
+        "Username": "닉네임",
+        "Email": "이메일 주소",
+        "Password": "비밀번호",
+        "Confirm_Password": "비밀번호 확인",
+        "Country": "국적",
+        "Gender": "성별",
+        "DOB": "생년월일",
+        "Phone_Number": "휴대폰번호",
+        "Send_Verification_Code": "인증번호 전송",
+        "Select": "국가 선택",
+        "Verify": "인증번호 확인",
+        "Resend": "인증번호 재전송",
+        "Placeholder": {
+            "First_Name": "이름을 입력해주세요.",
+            "Last_Name": "성을 입력해주세요.",
+            "Username": "다른 사용자에게 보여줄 사용자명(10자이내)을 입력해 주세요.",
+            "Email": "이메일 주소를 입력해 주세요.",
+            "Password": "영문, 숫자 혼합 8~16자로 입력해 주세요.",
+            "Confirm_Password": "비밀번호를 한 번 더 입력해 주세요.",
+            "Country": "국적을 선택해주세요.",
+            "Gender": "성별을 선택해주세요.",
+            "Select": "국가 선택",
+            "Verification_Code": "인증번호 입력해주세요.",
+            "Phone_Number": "휴대폰 번호를 입력해 주세요.",
+            "Already_have_account": "이미 회원이신가요?",
+            "Male": "남성",
+            "Female": "여성",
+            "More": "내용보기"
+        },
+        "Terms": {
+            "Agree": "아래 약관에 모두 동의합니다.",
+            "Term_of_use": "서비스 이용약관 동의 (필수)  내용보기",
+            "Privacy_and_Cookie": "개인정보 수집 및 이용 동의 (필수)  내용보기"
+        },
+        "Errors": {
+            "First_Name": "이름을 입력해 주세요.",
+            "Last_Name": "성을 입력해 주세요.",
+            "Username": "닉네임을 입력해 주세요.",
+            "Email": "이메일 형식에 맞게 입력해 주세요.",
+            "Password": "영문, 숫자 혼합 8~16자로 입력해 주세요.",
+            "Confirm_Password": "비밀번호가 일치하지 않습니다. 정확하게 입력하여 주세요. ",
+            "Country": "국적을 선택해주세요.",
+            "Gender": "성별을 선택해주세요.",
+            "DOB": "생년월일을 입력해 주세요.",
+            "Phone_Number": "휴대폰 인증을 진행해 주세요.",
+            "Time_excede": "확인 시간이 초과되었습니다. 인증 코드를 다시 보내주세요.",
+            "TermErr": "모든 이용 약관에 동의하십시오"
+        }
+    },
+    "Welcome": {
+        "Welcome": "회원가입 완료",
+        "Hi": "",
+        "Success": "compastrips 회원가입이 완료되었습니다. 로그인 하여 compastrips 의 서비스를 이용해 보세요. "
+    },
+    "logIn": {
+        "Log_In": "로그인",
+        "Email": "이메일 주소",
+        "Password": "비밀번호",
+        "Keep_me_signin": "로그인 상태 유지",
+        "Save_email_add": "이메일 주소 저장",
+        "Forgot_Password": "비밀번호 찾기",
+        "Dont_have_acc": "아직 회원이 아니신가요?",
+        "Placeholder": {
+            "Email": "이메일 주소를 입력해 주세요.",
+            "Password": "영문, 숫자 혼합 8~16자로 입력해 주세요."
+        },
+        "Errors": {
+            "Email": "당신의 이메일 주소를 입력하십시오",
+            "Password": "비밀번호를 입력 해주세요",
+            "InvalidEmail": "이 이메일로 가입된 계정이 없습니다. 다시 확인해 주세요.",
+            "IncorrectPass": "비밀번호가 맞지 않습니다. 다시 시도해 주세요."
+        }
+    },
+    "Reset_Password": {
+        "Reset_Password": "비밀번호 찾기",
+        "Enter_registered_email": "가입했던 이메일 주소를 입력해 주세요. 비밀번호 재설정 링크를 전송해 드립니다.",
+        "Email": "이메일 주소",
+        "Send_reset_link": "재설정 링크 전송",
+        "Password_reset_email_sent": "재설정 링크가 메일로 전송되었습니다.",
+        "Placeholder": {
+            "Email": "이메일 주소를 입력해 주세요."
+        },
+        "Errors": {
+            "Email": "이 이메일로 가입된 계정이 없습니다. 다시 확인해 주세요. ",
+            "User_Not_Found": "사용자가 존재하지 않습니다"
+        }
+    },
+    "Forgot_Password": {
+        "Reset_Password": "비밀번호 찾기",
+        "Pass_config": "암호는 8-16 자 사이 여야하며 문자와 숫자의 조합이어야합니다.",
+        "New_Password": "새 비밀번호",
+        "Confirm_Pass": "비밀번호 확인",
+        "Confirm": "확인",
+        "Error": {
+            "Password_Formate": "영문, 숫자 혼합 8~16자로 입력해 주세요.",
+            "Password": "비밀번호를 입력하세요",
+            "ConfirmPass": "비밀번호를 한 번 더 입력해 주세요.",
+            "PassMatch": "비밀번호가 일치하지 않습니다."
+        }
+    },
+    "Header": {
+        "DropDown": {
+            "My_Account": "마이페이지",
+            "My_Hosting": "호스팅 여행일정",
+            "Applied_Hosting": "여행 참석일정",
+            "Wishlist": "찜 내역",
+            "Edit_Profile": "내 정보 수정",
+            "Log_Out": "로그아웃",
+            "Chat": "채팅 설정"
+        }
+    },
+    "Homepage": {
+        "Hero": {
+            "Title1": "여행일정을 찾고",
+            "Title2": "새로운 친구를 만나세요",
+            "Search_Placeholder": "도시나 장소명 으로 검색해 보세요",
+            "From": "시작날짜",
+            "Until": "종료날짜",
+            "Find_Tours": "여행찾기",
+            "View_Hosts": "호스트로 보기",
+            "Host_MyOwn": "여행일정 만들기"
+        },
+        "Popular_Destination": "인기 여행지",
+        "Popular_Hosts": "인기 호스트",
+        "NavBar": {
+            "All": "전체",
+            "Local_Picks": "현지인만 아는",
+            "Festivals": "축제와 이벤트",
+            "Popular": "인기명소"
+        }
+    },
+    "Footer": {
+        "Terms_of_Use": "이용약관",
+        "Privacy_Policy": "개인정보 처리방침",
+        "Inquiries": "제휴문의",
+        "Customer_Service": "고객센터",
+        "Service_Introduction": "서비스 소개"
+    },
+    "My_Account": {
+        "MyAccount": "마이페이지",
+        "Edit_Profile": "프로필 수정하기",
+        "View_All": "더 보기",
+        "My_Hostings": "호스팅한 여행 일정",
+        "Coming_Up": "진행중",
+        "Completed": "종료",
+        "Applied_Hostings": "참석 신청한 여행 일정",
+        "Standing_By": "호스트 승인 전",
+        "Accepted": "승인",
+        "Declined": "승인불가",
+        "Wishlist": "찜 내역",
+        "Tours": "여행일정",
+        "Hosts": "호스트",
+        "Hosting_Canceled": "취소된 여행 일정입니다.",
+        "Remove": "목록에서 삭제하기",
+        "Show_My_Own_Host_Only": "내가 작성한 여행 일정만 보기"
+    },
+    "Edit_Profile": {
+        "Edit_Profile": "프로필 수정",
+        "Profile": "기본 정보",
+        "Name": "이름",
+        "Email": "이메일 주소",
+        "Nationality": "국적",
+        "DOB": "생년월일",
+        "Username": "닉네임",
+        "Password": "새 비밀번호",
+        "Confirm": "새 비밀번호 확인",
+        "Reset": "변경하기",
+        "Gender": "성별",
+        "Phone_number": "휴대폰 번호",
+        "Send_Verification_Code": "인증번호 전송",
+        "Verify": "인증번호 확인",
+        "Resend": "다시 보내다",
+        "Verification_Code": "인증번호 입력해주세요.",
+        "Delete": "회원탈퇴하기",
+        "Save": "저장하기",
+        "Time_excede": "확인 시간이 초과되었습니다. 인증 코드를 다시 보내주세요.",
+        "Placeholder": {
+            "Password": "새 비밀번호를 입력하세요",
+            "ConfirmPass": "비밀번호 확인"
+        },
+        "Error": {
+            "Password": "영문, 숫자 혼합 8~16자로 입력해 주세요.",
+            "ConfirmPass": "비밀번호를 한 번 더 입력해 주세요.",
+            "PassMatch": "비밀번호가 일치하지 않습니다.",
+            "verifyNumber": "휴대폰 번호를 확인하십시오",
+            "IncorrectOTP": "잘못된 OTP",
+            "InvalidMobile": "잘못된 휴대폰 번호"
+        }
+    },
+    "Delete_Acc": {
+        "Title": "탈퇴하시겠습니까?",
+        "Body": "탈퇴  후 회원정보 및 개인서비스 이용기록은 모두 삭제되며, 복구가 불가능합니다.",
+        "Confirm": "안내사항을 확인하였으며, 이에 동의합니다.",
+        "Cancel": "취소",
+        "Delete": "탈퇴하기"
+    },
+    "Host_Own": {
+        "Host_Own": "여행 일정 만들기",
+        "Itinerary": "여행일정 만들기",
+        "Span": "같은 지역의 코스만 선택하실 수 있습니다.",
+        "Add": "추가하기",
+        "Title": "여행 제목",
+        "About_Tour": "여행 세부 정보",
+        "Profile": "기본정보",
+        "Host_Type": "호스트 정보",
+        "Local_Host": "현지인 호스트",
+        "Travel_Host": "여행객 호스트",
+        "Gender": "성별",
+        "Age": "연령대",
+        "Nationality": "국적",
+        "Hosting_Date": "여행 일시",
+        "Single_Day_Hosting": "1일 일정으로만 입력 가능합니다.",
+        "Starts_At": "여행 시작 장소",
+        "Transportation": "이동수단",
+        "Pax_Number": "여행인원",
+        "Excluding_Host": "",
+        "Pax": "명",
+        "Introduce_Yourself": "소개글",
+        "Host": "등록하기",
+        "Cancel": "목록으로",
+        "More": "정보",
+        "Delete": "삭제",
+        "Options": {
+            "Car": "승용차",
+            "Taxi": "택시",
+            "Public_Transportation": "대중교통",
+            "Other": "직접입력"
+        },
+        "Placeholder": {
+            "Places_Events": "여행 코스를 추가해 주세요.",
+            "Title": "여행 제목을 입력해주세요.",
+            "About_Tour": "여행 세부 정보를 입력해 주세요.",
+            "Start_At": "여행 시작 장소를 입력해주세요.",
+            "Other": "이동수단을 입력해주세요.",
+            "Pax_Number": "1-9 사이의 숫자만 입력해주세요.",
+            "Introduce_Yourself": "소개글을 입력해 주세요. (500자 이하로 작성해주세요)"
+        },
+        "Host_Popup": {
+            "Host": "알림",
+            "Title": "여행일정을 등록하시겠습니까?",
+            "Point1": "등록된 여행일정은 언제든지 취소가 가능하나, 수정은 불가합니다.",
+            "Point2": "다른 호스트들은 해당 여행일정을 호스트 할수 없습니다.",
+            "Point3": "여행일정을 취소하거나 종료한 이후에는 여행일정 리스트에서 제외 됩니다.",
+            "Cancel": "취소",
+            "Host_Btn": "등록하기"
+        },
+        "Notice_Popup": {
+            "Notice": "알림",
+            "Body": "여행 일정 등록이 완료되었습니다!",
+            "OK": "확인"
+        },
+        "pax1": "참가자  ",
+        "pax2": "",
+        "pax3": "명",
+        "Delete_Course": {
+            "Title": "코스 삭제",
+            "Body": "해당 코스를 삭제하시겠습니까??",
+            "Cancel": "취소",
+            "Delete": "삭제"
+        },
+        "Delete_Course_Popup": {
+            "Title": "코스 삭제",
+            "Body": "과정이 삭제되었습니다.",
+            "OK": "확인"
+        },
+        "Already_Hosting": {
+            "Title": "알림",
+            "T1": "호스팅은 중복진행이 불가합니다.",
+            "T2": "진행 중인 여행일정을 취소 혹은 종료 후",
+            "T3": "새로 신청하세요.",
+            "OK": "확인"
+        }
+    },
+    "Add_Place": {
+        "Header": "여행 코스 검색",
+        "Country": "국가",
+        "City": "지역",
+        "Category": "카테고리",
+        "All": "전체",
+        "Span": "복수선택 가능",
+        "Search": "검색하기",
+        "Keyword": "키워드를 입력해 주세요.",
+        "Results1": "총 ",
+        "Results2": "개",
+        "Selected1": "선택 ",
+        "Selected2": "개",
+        "Cancel": "취소",
+        "Add": "적용"
+    },
+    "Tour_Course_Details": {
+        "Header": "여행 코스 검색",
+        "City": "지역",
+        "Category": "카테고리",
+        "Name": "이름",
+        "Photos": "사진",
+        "Date": "기간",
+        "About": "개요",
+        "Address": "주소",
+        "URL": "홈페이지",
+        "Phone_Number": "전화번호",
+        "Nearest_Public_Trasportation": "가까운 대중교통"
+    },
+    "ViewHost": {
+        "Header": "호스트로 보기",
+        "Host_Type": "호스트 타입",
+        "Local_Host": "현지인 호스트",
+        "Traveler_Host": "여행객 호스트",
+        "Gender": "성별",
+        "Male": "남성",
+        "Female": "여성",
+        "Age_Group": "연령대",
+        "20s": "20대",
+        "30s": "30대",
+        "40s": "40대",
+        "50s": "50대",
+        "60s": "60대",
+        "pax1": "명",
+        "pax2": " 참가 중"
+    },
+    "Host_Profile_Popup": {
+        "Title": "호스트 정보",
+        "Now_Hosting": "호스팅중인 여행 일정",
+        "Reviews1": "리뷰 ",
+        "Reviews2": "개"
+    },
+    "Itinerary_Desc": {
+        "Itinerary": "여행코스",
+        "About_the_tour": "여행 세부 정보",
+        "Schedule": "일정안내",
+        "Reviews": "이 일정에 대한 리뷰"
+    },
+    "TourList": {
+        "Host": "이 호스팅 중",
+        "People": "명",
+        "Reviews": "리뷰"
+    },
+    "Empty_Participates": {
+        "Text": "아직 참가자가 없습니다."
+    },
+    "Empty_Hostlist": {
+        "Host_Btn": "이 여행의 호스트 되기",
+        "Host_Tour": "",
+        "Text": "아직 호스트가 없는 여행 일정입니다."
+    },
+    "Host_Details": {
+        "Cancel_Btn": {
+            "P1": "호스팅 취소하기",
+            "P2": ""
+        },
+        "Hosting_Complete": {
+            "P1": "여행 종료하기",
+            "P2": ""
+        },
+        "Date&Time": "여행 일정",
+        "Starts_At": "여행 시작장소",
+        "Transportation": "이동수단",
+        "Join": "여행 신청하기",
+        "Application_Sent": "호스트 승인 대기 중",
+        "Cancel_My_Application": "신청 취소하기",
+        "Closed": "여행 신청마감",
+        "Application_Accepted": "호스트 승인 완료",
+        "Application_Declined": "호스트 승인 거절",
+        "Rejected_By_Host": "호스트 승인 거절",
+        "Cancle_Request": "신청 취소하기",
+        "Hosting_Completed": "종료된 여행",
+        "Write_Review": "일정에 대한 별점 및 리뷰 작성하기",
+        "Review_Submitted": "일정에 대한 별점 및 리뷰 작성완료"
+    },
+    "Join_Popup": {
+        "Join": "여행 신청",
+        "Text1": "여행을 신청하시겠습니까?",
+        "Text2": "여행 취소는 언제든지 가능합니다.",
+        "Cancel": "취소",
+        "Apply": "신청하기"
+    },
+    "Application_Sent": {
+        "Application_Sent": "여행 신청 완료",
+        "Text1": "여행 신청이 완료되었습니다.",
+        "Text2": "호스트의 승인 후 여행에 참여하실 수 있습니다.",
+        "Text3": "신청 내역은 마이페이지 > 여행 참석 신청에서 확인해주세요.",
+        "OK": "확인"
+    },
+    "Cancel_Application": {
+        "Cancel_Application": "참석 취소하기",
+        "Question": "이 여행에 대한 참석 신청을 취소하시겠습니까?",
+        "Confirm_Statement": "이 여행에 대한 참석 신청을 취소되었습니다.",
+        "Cancel": "취소",
+        "Confirm": "확인",
+        "OK": "확인"
+    },
+    "Host_Popup": {
+        "Host": "알림",
+        "Title": "호스트 정보를 등록하시겠습니까?",
+        "Body": "등록된 호스트 정보는 언제든지 취소가 가능하나, 수정은 불가합니다.",
+        "Cancel": "취소",
+        "Host_Btn": "등록하기"
+    },
+    "Notice_Popup": {
+        "Notice": "알림",
+        "Body": "호스트 정보가 저장되었습니다.",
+        "OK": "확인"
+    },
+    "Cancel_Notice_Popup": {
+        "Notice": "알림",
+        "Body": "호스팅이 취소처리되었습니다.",
+        "OK": "확인"
+    },
+    "Cancel_Hosting_Popup": {
+        "Title": "알림",
+        "Question": "호스팅을 취소하시겠습니까?",
+        "Text": "호스팅 취소 시 호스팅한 여행 일정 목록에서 삭제되며, 참석 신청자가 있을 경우 신청자에게 취소 알림이 발송됩니다.",
+        "Cancel": "취소",
+        "Confirm": "확인",
+        "Notice": {
+            "Title": "알림",
+            "Body": "호스팅이 취소처리되었습니다.",
+            "OK": "확인"
+        }
+    },
+    "Hosting_Complete": {
+        "Title": "알림",
+        "Text": "여행 종료하기 후 참석자들이 리뷰를 작성할 수 있습니다.",
+        "Cancel": "취소",
+        "Yes": "여행 종료하기",
+        "Notice": {
+            "Title": "알림",
+            "Body": "호스팅한 여행이 종료되었습니다. 이제 새로운 일정을 호스팅할 수 있습니다.",
+            "OK": "확인"
+        }
+    },
+    "Pax_Applications": {
+        "Applications": "여행 참석 신청 목록",
+        "Pax1": "여행 인원 전체 ",
+        "Pax2": "",
+        "Vacancies1": "잔여 ",
+        "Vacancies2": "",
+        "Standing": "승인 전",
+        "Accepted": "승인완료",
+        "Declined": "승인불가",
+        "Applied": "참가신청",
+        "Status": "승인상태: ",
+        "Chat": "채팅",
+        "Accept": "승인",
+        "Decline": "승인불가",
+        "No_Application": "내역이 없습니다."
+    },
+    "Cancel_Accepted": {
+        "Title": "신청 취소하기",
+        "Body": "이 일정에 대한 참석 신청을 취소하시겠습니까",
+        "Cancel": "취소",
+        "Continue": "확인"
+    },
+    "Cancel_Accepted_Success": {
+        "Title": "신청 취소 완료",
+        "Body": "이 일정에 대한 참석 신청이 취소되었습니다.",
+        "Continue": "확인"
+    },
+    "Application_pax": {
+        "Accept_Popup": {
+            "Title": "참석 신청 승인",
+            "Body1": "",
+            "Body2": " 참여자의 신청을 승인하시겠습니까?",
+            "Cancel": "취소",
+            "Accept": "승인하기"
+        },
+        "Accept_Notice": {
+            "Title": "참석 신청 승인 완료",
+            "Body1": "",
+            "Body2": " 참여자의 참석 신청에 대하여 승인 완료 하셨습니다.",
+            "OK": "확인"
+        },
+        "Decline_Popup": {
+            "Title": "참석 신청 승인불가",
+            "Body1": "",
+            "Body2": " 참여자의 신청을 승인불가 처리하시겠습니까?",
+            "Cancel": "취소",
+            "Decline": "승인불가"
+        },
+        "Decline_Notice": {
+            "Title": "참석 신청 승인불가",
+            "Body1": "",
+            "Body2": " 참여자의 참석 신청에 대하여 승인 불가 처리하셨습니다.",
+            "OK": "확인"
+        }
+    },
+    "Chat": {
+        "Enter_Message": "메시지를 입력해 주세요."
+    },
+    "Review_Popup": {
+        "Title": "일정에 대한 리뷰 작성하기",
+        "Body": "리뷰를 작성하여 다른 여행자들과 호스트에게 더 나은 여행을 선사해보세요.",
+        "Write_Review": "리뷰를 작성해주세요.",
+        "Cancel": "취소",
+        "Submit": "등록하기"
+    },
+    "Review_Notice": {
+        "Title": "리뷰 작성하기",
+        "Body": "리뷰 등록이 완료되었습니다.",
+        "OK": "확인"
+    },
+    "Terms_Of_Use": {
+        "Title": "이용약관",
+        "Artical_1": "제 1장 총칙",
+        "Body_Title": "제 1조 (목적)",
+        "Body": "본 약관은 본 약관은 compastrips 웹사이트(http://www.compastrips.com, 이하 \"compastrips\"라 한다)에서 제공하는 여행지 호스팅 서비스를 이용함에 있어 이용자의 권리, 의무 및 책임사항을 규정함을 목적으로 합니다.",
+        "Close": "닫기"
+    },
+    "Privacy_Policy": {
+        "Title": "개인정보 처리방침",
+        "Body": "compastrips(이하 “회사\")는 통신비밀보호법, 전기통신사업법, 정보통신망 이용촉진 및 정보보호 등에 관한 법률, 개인정보보호법 및 정부가 제정한 개인정보보호지침 등 정보통신서비스제공자가 준수하여야 할 관련 법령상의 개인정보보호 규정을 준수하며, 관련 법령에 의거한 개인정보보호방침을 정하여 이용자의 권익 보호에 최선을 다하고 있습니다. “회사”의 개인정보취급방침은 다음과 같은 내용을 담고 있습니다",
+        "Point1": "1. 수집하는 개인정보의 항목 및 수집방법",
+        "Point2": "2. 개인정보의 수집 및 이용목적",
+        "Point3": "3. 개인정보의 공유 및 제공",
+        "Point4": "4. 개인정보의 취급위탁",
+        "Close": "닫기"
+    },
+    "Age_Groups": "대",
+    "Male": "남성",
+    "Female": "여성",
+    "Traveler_Host": "여행객 호스트",
+    "Local_Host": "현지인 호스트",
+    "Customer_Service": {
+        "Customer_Service": "고객센터",
+        "Notice": "공지사항",
+        "FAQ": "자주 묻는 질문",
+        "Keyword": "검색어를 입력하세요.",
+        "Search": "검색",
+        "Total": "총 ",
+        "Items": "개",
+        "Title": "제목",
+        "Date": "작성일",
+        "Views": "조회수"
+    },
+    "Inquiry": {
+        "Inquiries": "서비스 소개",
+        "Get_Started": "여행 시작하기"
+    },
+    "Wasn't_Good": "좋지 않았다",
+    "Disappointed": "실망한",
+    "Decent": "어지간한",
+    "Satisfied": "만족",
+    "Very_Satisfied": "만족해요"
+}
